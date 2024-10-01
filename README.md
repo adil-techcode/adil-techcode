@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Dapps**
 
-- 👨‍💻 All of my projects are available at [https://adilamin.netlify.app/](https://adilamin.netlify.app/)
+- 👨‍💻 All of my projects are available at adilamin.tech
 
 - 💬 Ask me about **Web development , Ethereum Blockchain Development**
 
